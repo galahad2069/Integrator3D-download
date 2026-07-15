@@ -20,5 +20,5 @@ Every release lists a **SHA-256** checksum so you can verify your download.
 
 ---
 
-*This repository hosts only the compiled binaries. The source is kept private for now and
-will be opened once the first round of tester feedback has been folded in.*
+*This repository hosts the compiled binaries. The source code is at
+[github.com/galahad2069/Integrator3D](https://github.com/galahad2069/Integrator3D).*
